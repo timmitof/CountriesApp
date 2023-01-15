@@ -1,6 +1,7 @@
 package com.timmitof.countriesapp.repository
 
 import com.timmitof.countriesapp.models.Country
+import retrofit2.Call
 import retrofit2.Response
 
 interface CountryRepository {

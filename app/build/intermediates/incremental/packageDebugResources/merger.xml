@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res"/><source path="D:\AndroidStudioProjects\CountriesApp\app\build\generated\res\rs\debug"/><source path="D:\AndroidStudioProjects\CountriesApp\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res"><file name="bg_rounded" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\drawable\bg_rounded.xml" qualifiers="" type="drawable"/><file name="ic_back" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\drawable\ic_back.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_logo" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\drawable\ic_logo.xml" qualifiers="" type="drawable"/><file name="ic_refresh" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\drawable\ic_refresh.xml" qualifiers="" type="drawable"/><file name="ic_search" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\drawable\ic_search.xml" qualifiers="" type="drawable"/><file name="flag" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\drawable-v24\flag.png" qualifiers="v24" type="drawable"/><file name="ic_launcher_foreground" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="segoeui_bold" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\font\segoeui_bold.ttf" qualifiers="" type="font"/><file name="segoeui_regular" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\font\segoeui_regular.ttf" qualifiers="" type="font"/><file name="activity_main" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="fragment_country_details" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\layout\fragment_country_details.xml" qualifiers="" type="layout"/><file name="fragment_home" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\layout\fragment_home.xml" qualifiers="" type="layout"/><file name="item_country" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\layout\item_country.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="nav_graph_home" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\navigation\nav_graph_home.xml" qualifiers="" type="navigation"/><file path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\values\colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="accentPrimary">#0B1832</color><color name="accentSecondary">#070F20</color><color name="accentTertiary">#142340</color><color name="accentQuarternary">#222222</color><color name="accentLink">#017CBC</color><color name="accentWarning">#FF3B30</color><color name="elementPrimary">#222222</color><color name="elementSecondary">#727272</color><color name="elementTertiary">#C4C4C4</color><color name="elementQuarternary">#EAEAEA</color><color name="elementInverse">#FFFFFF</color><color name="elementStatic">#222222</color><color name="greySecondary">#BBBBBB</color><color name="backgroundPrimary">#F2F2F2</color><color name="backgroundSecondary">#FFFFFF</color><color name="backgroundTertiary">#F2F2F2</color><color name="media_picker_item_background_normal">#14000000</color><color name="media_picker_item_background_activated">#66ffffff</color><color name="media_picker_item_background_focused">#99ffffff</color><color name="primary_focused">#CCCED0</color><color name="primary_disabled">#F6F7F7</color></file><file path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">CountriesApp</string><string name="search_country_hint">Country Name</string><string name="error_undefined">Undefined Error</string><string name="no_internet_connection">No Internet Connection</string><string name="close">Close</string><string name="country">Country: %s</string><string name="region">Region: %s</string><string name="home_fragment">Home</string><string name="details_fragment">Details</string><string name="timezone">Timezone: %s</string><string name="capital">Capital: %s</string><string name="currency">Currency: %s</string></file><file path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\values\style_fonts.xml" qualifiers=""><style name="CountryTheme.TextAppearance"/><style name="CountryTheme.TextAppearance.Bold20">
+        <item name="android:textColor">?colorSecondary</item>
+        <item name="android:fontFamily">@font/segoeui_bold</item>
+        <item name="android:textSize">20sp</item>
+    </style><style name="CountryTheme.TextAppearance.Bold18">
+        <item name="android:textColor">?colorSecondary</item>
+        <item name="android:fontFamily">@font/segoeui_bold</item>
+        <item name="android:textSize">18sp</item>
+    </style><style name="CountryTheme.TextAppearance.Bold16">
+        <item name="android:textColor">?colorSecondary</item>
+        <item name="android:fontFamily">@font/segoeui_bold</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="CountryTheme.TextAppearance.Bold14">
+        <item name="android:textColor">?colorSecondary</item>
+        <item name="android:fontFamily">@font/segoeui_bold</item>
+        <item name="android:textSize">14sp</item>
+    </style><style name="CountryTheme.TextAppearance.Bold12">
+        <item name="android:textColor">?colorSecondary</item>
+        <item name="android:fontFamily">@font/segoeui_bold</item>
+        <item name="android:textSize">12sp</item>
+    </style><style name="CountryTheme.TextAppearance.Regular18">
+        <item name="android:textColor">?colorSecondary</item>
+        <item name="android:fontFamily">@font/segoeui_regular</item>
+        <item name="android:textSize">18sp</item>
+    </style><style name="CountryTheme.TextAppearance.Regular16">
+        <item name="android:textColor">?colorSecondary</item>
+        <item name="android:fontFamily">@font/segoeui_regular</item>
+        <item name="android:textSize">16sp</item>
+    </style><style name="CountryTheme.TextAppearance.Regular14">
+        <item name="android:textColor">?colorSecondary</item>
+        <item name="android:fontFamily">@font/segoeui_regular</item>
+        <item name="android:textSize">14sp</item>
+    </style><style name="CountryTheme">TextAppearance</style></file><file path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.CountriesApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/accentPrimary</item>
+        <item name="colorPrimaryVariant">@color/accentTertiary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accentSecondary</item>
+        <item name="colorSecondaryVariant">@color/accentQuarternary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="android:statusBarColor">@color/backgroundPrimary</item>
+        
+    </style></file><file path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.CountriesApp" parent="Theme.MaterialComponents.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/white</item>
+        
+    </style></file><file name="backup_rules" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="D:\AndroidStudioProjects\CountriesApp\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source><source path="D:\AndroidStudioProjects\CountriesApp\app\build\generated\res\rs\debug"/><source path="D:\AndroidStudioProjects\CountriesApp\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidStudioProjects\CountriesApp\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidStudioProjects\CountriesApp\app\src\debug\res"/></dataSet><mergedItems/></merger>

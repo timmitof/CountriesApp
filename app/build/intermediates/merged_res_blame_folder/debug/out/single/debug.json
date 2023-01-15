@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\font_segoeui_bold.ttf.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\font\\segoeui_bold.ttf"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_rounded.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\xml_backup_rules.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_country_details.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\layout\\fragment_country_details.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_refresh.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph_home.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\navigation\\nav_graph_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\font_segoeui_regular.ttf.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\font\\segoeui_regular.ttf"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_country.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\layout\\item_country.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_logo.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_flag.png.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\drawable-v24\\flag.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CountriesApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\CountriesApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
